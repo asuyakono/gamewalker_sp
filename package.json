@@ -1,0 +1,19 @@
+{
+  "name": "gamewalker_sp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:asuyakono/gamewalker_sp.git",
+  "author": "asuyakono <asykun0427@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gulp": "gulp"
+  },
+  "dependencies": {
+    "cssmin": "^0.4.3",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-sass": "^3.1.0",
+    "jsmin": "^1.0.1"
+  }
+}
